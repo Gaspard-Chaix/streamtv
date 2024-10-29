@@ -1,0 +1,18 @@
+.banner {
+  
+  background-image:url(https://www.google.com/imgres?q=sport%20a%20travers%20ecran&imgurl=https%3A%2F%2Fai-previews.123rf.com%2Fai-variation%2Fpreview%2Fwm%2Fandreysha74%2Fandreysha741801%2Fandreysha74180100147_0.jpg&imgrefurl=https%3A%2F%2Ffr.123rf.com%2Fphoto_93156806_diffusion-en-direct-d-un-match-de-football-la-vue-%25C3%25A0-travers-l-%25C3%25A9cran-de-la-cam%25C3%25A9ra.html&docid=tGwrxDLU80xfMM&tbnid=JlTqEgu5RiCA3M&vet=12ahUKEwj6v57AobKJAxWGfKQEHegmAdIQM3oECGMQAA..i&w=1152&h=768&hcb=2&ved=2ahUKEwj6v57AobKJAxWGfKQEHegmAdIQM3oECGMQAA);   
+  
+	background-size: cover;     
+  
+	background-position: center;
+}
+.banner h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+	opacity: 0.8;
+}
